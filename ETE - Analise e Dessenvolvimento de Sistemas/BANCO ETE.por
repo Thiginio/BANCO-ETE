@@ -5,7 +5,7 @@
 		Matéria: LPC 
 		Prof.: SILVIO MONTE 
 
-	     Github: 
+	     Github: https://github.com/Thiginio/BANCO-ETE.git
  				
 	        1 - Apenas um cliente por execução;
 	        2 - Ao criar conta corrente, obrigatório perguntar se deseja realizar deposito inicial e criar automaticamente conta poupança;
