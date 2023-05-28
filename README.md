@@ -1,8 +1,8 @@
-##Banco ETE - Sistema de Contas Bancárias
+Banco ETE - Sistema de Contas Bancárias
 
 Este é um programa simples escrito em Portugol que simula um sistema de contas bancárias. O programa permite criar e gerenciar contas correntes e contas poupança, realizando operações como saques, depósitos, aplicação na poupança e resgate.
 
-##Funcionalidades
+Funcionalidades
 
 Criação de Conta: O programa permite criar uma nova conta corrente. Ao criar a conta corrente, é solicitado o nome do titular, número da agência, número da conta corrente e dígito verificador.
 
